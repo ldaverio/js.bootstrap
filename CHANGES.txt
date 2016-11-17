@@ -1,6 +1,12 @@
 CHANGES
 *******
 
+3.3.6 (2016-11-17)
+==================
+
+- Update to Bootstrap 3.3.4 [ldaverio]
+
+
 3.3.5 (unreleased)
 ==================
 
